@@ -137,19 +137,6 @@ A centralized platform designed to simplify **On-Duty management across campus**
 
 ---
 
-## 📈 Contribution Activity
-
-<p align="center">
-  <a href="https://github.com/Tsukikage23">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=Tsukikage23&theme=tokyo-night&hide_border=true&area=true"
-      width="100%"
-      alt="GitHub Contribution Activity"
-    />
-  </a>
-</p>
-
----
 ## 📊 GitHub Analytics
 
 <p align="center">
