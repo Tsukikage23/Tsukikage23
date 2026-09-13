@@ -2,7 +2,7 @@
      PROFILE HEADER
 ========================= -->
 
-<h1 align="center">まれすくりぷと34 👋</h1>
+<h1 align="center">こんにちは、アディティヤ・ジャインです。 👋</h1>
 
 <h3 align="center">
   BTech IT Student • Full-Stack Developer • Problem Solver
