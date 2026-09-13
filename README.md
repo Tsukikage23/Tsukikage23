@@ -207,9 +207,6 @@ A centralized platform designed to simplify **On-Duty management across campus**
   />
 </p>
 
-> ⚠️ The snake animation requires a GitHub Action setup in your profile repository.
-> If you haven't configured it yet, remove this section until the action is added.
-
 ---
 
 # 📫 Connect With Me
