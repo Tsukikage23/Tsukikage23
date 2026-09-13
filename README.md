@@ -201,8 +201,9 @@ A centralized platform designed to simplify **On-Duty management across campus**
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/Tsukikage23/Tsukikage23/output/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/Tsukikage23/Tsukikage23/gh-pages/github-contribution-grid-snake.svg"
     alt="GitHub Contribution Snake"
+    width="100%"
   />
 </p>
 
