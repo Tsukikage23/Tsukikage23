@@ -79,31 +79,31 @@ A centralized platform designed to simplify **On-Duty management across campus**
 
 ### 💻 Languages
 
-<p align="left">
+<p align="centre">
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript" />
 </p>
 
 ### 🌐 Web Development
 
-<p align="left">
+<p align="centre">
 <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,bootstrap" />
 </p>
 
 ### 🗄️ Databases & Backend
 
-<p align="left">
+<p align="centre">
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis" />
 </p>
 
 ### ☁️ Cloud & DevOps
 
-<p align="left">
+<p align="centre">
 <img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,github" />
 </p>
 
 ### 🤖 AI / Data
 
-<p align="left">
+<p align="centre">
 <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
@@ -111,15 +111,6 @@ A centralized platform designed to simplify **On-Duty management across campus**
   <img src="https://img.shields.io/badge/AI-Exploring-blueviolet?style=flat-square">
   <img src="https://img.shields.io/badge/RAG-Learning-orange?style=flat-square">
   <img src="https://img.shields.io/badge/Agentic%20AI-Learning-green?style=flat-square">
-</p>
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Tsukikage23&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tsukikage23&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
