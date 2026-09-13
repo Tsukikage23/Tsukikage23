@@ -163,18 +163,6 @@ A centralized platform designed to simplify **On-Duty management across campus**
 
 ---
 
-## 🚀 Featured Project
-
-<p align="center">
-  <a href="https://github.com/Tsukikage23/campus-backend">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=Tsukikage23&repo=campus-backend&theme=tokyonight&hide_border=true"
-      width="500"
-    />
-  </a>
-</p>
-
----
 
 # 🧩 What I'm Currently Working On
 
@@ -221,15 +209,6 @@ A centralized platform designed to simplify **On-Duty management across campus**
 
 ---
 
-# 📊 Contribution Calendar
-
-<p align="center">
-     
-<img src="https://raw.githubusercontent.com/Tsukikage23/Tsukikage23/output/github-contribution-grid-snake.svg">
-
-</p>
-
----
 
 ## 🐍 Contribution Snake
 
