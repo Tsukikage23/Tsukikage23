@@ -146,33 +146,40 @@ A centralized platform designed to simplify **On-Duty management across campus**
 
 ---
 
-# 📈 Contribution Activity
+## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tsukikage23&theme=tokyo-night&hide_border=true&area=true&custom_title=GitHub%20Contribution%20Graph" alt="GitHub Contribution Graph">
-</p>
-
----
-
-# 📅 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tsukikage23&show_icons=true&hide=issues,prs&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Activity">
-</p>
-
----
-
-## 💻 Featured Repositories
-
-<p align="center">
-  <a href="https://github.com/Tsukikage23/campus-backend">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Tsukikage23&repo=campus-backend&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/Tsukikage23">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=Tsukikage23&theme=tokyo-night&hide_border=true&area=true"
+      width="100%"
+      alt="GitHub Contribution Activity"
+    />
   </a>
 </p>
 
+---
+## 📊 GitHub Analytics
+
 <p align="center">
-  <a href="https://github.com/Tsukikage23?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tsukikage23&theme=tokyonight" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tsukikage23&theme=tokyonight" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tsukikage23&theme=tokyonight" width="49%" />
+</p>
+
+---
+
+## 🚀 Featured Project
+
+<p align="center">
+  <a href="https://github.com/Tsukikage23/campus-backend">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=Tsukikage23&repo=campus-backend&theme=tokyonight&hide_border=true"
+      width="500"
+    />
   </a>
 </p>
 
@@ -184,8 +191,7 @@ A centralized platform designed to simplify **On-Duty management across campus**
 ┌──────────────────────────────────────────────┐
 │                                              │
 │  🚀 Full-Stack Development                   │
-│  🤖 Generative AI                            │
-│  🔎 RAG                                      │
+│  🤖 Generative AI                            │     
 │  🧠 Agentic AI                               │
 │  ☁️ Cloud & AWS                              │
 │  🏗️ System Design                            │
@@ -227,19 +233,20 @@ A centralized platform designed to simplify **On-Duty management across campus**
 # 📊 Contribution Calendar
 
 <p align="center">
-
-<img src="https://ghchart.rshah.org/40c4ff/Tsukikage23" alt="GitHub Contribution Calendar">
+     
+<img src="https://raw.githubusercontent.com/Tsukikage23/Tsukikage23/output/github-contribution-grid-snake.svg">
 
 </p>
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/Tsukikage23/Tsukikage23/output/github-contribution-grid-snake.svg" alt="Contribution Snake">
-
+  <img
+    src="https://raw.githubusercontent.com/Tsukikage23/Tsukikage23/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
 </p>
 
 > ⚠️ The snake animation requires a GitHub Action setup in your profile repository.
