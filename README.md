@@ -1,9 +1,3 @@
-<!-- =========================
-     PROFILE HEADER
-========================= -->
-
-<h1 align="center">こんにちは、アディティヤ・ジャインです。 👋</h1>
-
 <p align="center">
   <img
     src="./assets/gitbanner.png"
@@ -12,7 +6,7 @@
   />
 </p>
 
-<h3 align="center">BTech IT Student • Full-Stack Developer • Problem Solver</h3>
+<h3 align="center">Creating and Solving Problems</h3>
 
 <p align="center">
   <a href="https://github.com/Tsukikage23">
