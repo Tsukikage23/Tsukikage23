@@ -6,7 +6,7 @@
   />
 </p>
 
-<h3 align="center">Creating and Solving Problems</h3>
+<h3 align="center">Creating Problems</h3>
 
 <p align="center">
   <a href="https://github.com/Tsukikage23">
