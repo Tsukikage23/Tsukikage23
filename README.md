@@ -4,9 +4,15 @@
 
 <h1 align="center">こんにちは、アディティヤ・ジャインです。 👋</h1>
 
-<h3 align="center">
-  BTech IT Student • Full-Stack Developer • Problem Solver
-</h3>
+<p align="center">
+  <img
+    src="./assets/gitbanner.png"
+    alt="Japanese themed banner"
+    width="100%"
+  />
+</p>
+
+<h3 align="center">BTech IT Student • Full-Stack Developer • Problem Solver</h3>
 
 <p align="center">
   <a href="https://github.com/Tsukikage23">
