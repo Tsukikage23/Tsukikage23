@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="./assets/gitbanner.png"
+    src="./assets/gitbanner1.png"
     alt="Japanese themed banner"
     width="100%"
   />
